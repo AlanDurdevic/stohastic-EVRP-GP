@@ -29,6 +29,7 @@ import io.jenetics.util.ISeq;
 
 public class GeneticProgrammingStohasticEVRPMultiple{
 	
+	//change based on objective
 	private static final double VEHICLE_PENALTY_CONSTANT = 0;
 
 	private static final double ENERGY_PENALTY_CONSTANT = 1000;

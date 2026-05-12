@@ -49,8 +49,10 @@ public class StohasticPipeline {
 
 	private static final String resultsFile = "./energy-MS";
 	
+	//RGS
 	private final static VehicleStrategy vs = VehicleStrategy.Serial;
-	
+
+	//Customer selector
 	private final static CustomerSelector cs = new MSStohasticCustomerSelector();
 
 	private static final String trainFolder = "./data/stohastic/train";
