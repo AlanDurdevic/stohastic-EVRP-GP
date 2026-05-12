@@ -1,0 +1,1 @@
+Entry point is java.hr.fer.seminar.StohasticPipeline
