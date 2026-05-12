@@ -1,7 +1,0 @@
-FunctionString:add(Eni,Eni)
-ParsedProgram:add(Eni,Eni)
-TreeDepth:1
-TreeSize:3
-TestFile:./data/stohastic/test/rc207_21.txt
-ERROR:6454.2194631353
-TIME_MS:30.7685140000
